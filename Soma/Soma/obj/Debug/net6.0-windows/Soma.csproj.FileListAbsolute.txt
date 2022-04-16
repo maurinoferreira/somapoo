@@ -1,17 +1,51 @@
-C:\Users\TEMP.UNIPSOR2.001\Desktop\Soma\Soma\bin\Debug\net6.0-windows\Soma.exe
-C:\Users\TEMP.UNIPSOR2.001\Desktop\Soma\Soma\bin\Debug\net6.0-windows\Soma.deps.json
-C:\Users\TEMP.UNIPSOR2.001\Desktop\Soma\Soma\bin\Debug\net6.0-windows\Soma.runtimeconfig.json
-C:\Users\TEMP.UNIPSOR2.001\Desktop\Soma\Soma\bin\Debug\net6.0-windows\Soma.dll
-C:\Users\TEMP.UNIPSOR2.001\Desktop\Soma\Soma\bin\Debug\net6.0-windows\Soma.pdb
-C:\Users\TEMP.UNIPSOR2.001\Desktop\Soma\Soma\obj\Debug\net6.0-windows\Soma.csproj.AssemblyReference.cache
-C:\Users\TEMP.UNIPSOR2.001\Desktop\Soma\Soma\obj\Debug\net6.0-windows\Soma.Form1.resources
-C:\Users\TEMP.UNIPSOR2.001\Desktop\Soma\Soma\obj\Debug\net6.0-windows\Soma.csproj.GenerateResource.cache
-C:\Users\TEMP.UNIPSOR2.001\Desktop\Soma\Soma\obj\Debug\net6.0-windows\Soma.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\TEMP.UNIPSOR2.001\Desktop\Soma\Soma\obj\Debug\net6.0-windows\Soma.AssemblyInfoInputs.cache
-C:\Users\TEMP.UNIPSOR2.001\Desktop\Soma\Soma\obj\Debug\net6.0-windows\Soma.AssemblyInfo.cs
-C:\Users\TEMP.UNIPSOR2.001\Desktop\Soma\Soma\obj\Debug\net6.0-windows\Soma.csproj.CoreCompileInputs.cache
-C:\Users\TEMP.UNIPSOR2.001\Desktop\Soma\Soma\obj\Debug\net6.0-windows\Soma.dll
-C:\Users\TEMP.UNIPSOR2.001\Desktop\Soma\Soma\obj\Debug\net6.0-windows\refint\Soma.dll
-C:\Users\TEMP.UNIPSOR2.001\Desktop\Soma\Soma\obj\Debug\net6.0-windows\Soma.pdb
-C:\Users\TEMP.UNIPSOR2.001\Desktop\Soma\Soma\obj\Debug\net6.0-windows\Soma.genruntimeconfig.cache
-C:\Users\TEMP.UNIPSOR2.001\Desktop\Soma\Soma\obj\Debug\net6.0-windows\ref\Soma.dll
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\bin\Debug\net6.0-windows\Soma.exe
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\bin\Debug\net6.0-windows\Soma.deps.json
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\bin\Debug\net6.0-windows\Soma.runtimeconfig.json
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\bin\Debug\net6.0-windows\Soma.dll
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\bin\Debug\net6.0-windows\Soma.pdb
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\obj\Debug\net6.0-windows\Soma.csproj.AssemblyReference.cache
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\obj\Debug\net6.0-windows\Soma.csproj.GenerateResource.cache
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\obj\Debug\net6.0-windows\Soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\obj\Debug\net6.0-windows\Soma.AssemblyInfoInputs.cache
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\obj\Debug\net6.0-windows\Soma.AssemblyInfo.cs
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\obj\Debug\net6.0-windows\Soma.csproj.CoreCompileInputs.cache
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\obj\Debug\net6.0-windows\Soma.dll
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\obj\Debug\net6.0-windows\refint\Soma.dll
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\obj\Debug\net6.0-windows\Soma.pdb
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\obj\Debug\net6.0-windows\Soma.genruntimeconfig.cache
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\obj\Debug\net6.0-windows\ref\Soma.dll
+C:\Users\Rever\Documents\Visual Studio 2022\projetos\Soma\Soma\obj\Debug\net6.0-windows\Soma.frmPrincipal.resources
+C:\Users\Rever\Desktop\projetos\Soma\Soma\bin\Debug\net6.0-windows\Soma.exe
+C:\Users\Rever\Desktop\projetos\Soma\Soma\bin\Debug\net6.0-windows\Soma.deps.json
+C:\Users\Rever\Desktop\projetos\Soma\Soma\bin\Debug\net6.0-windows\Soma.runtimeconfig.json
+C:\Users\Rever\Desktop\projetos\Soma\Soma\bin\Debug\net6.0-windows\Soma.dll
+C:\Users\Rever\Desktop\projetos\Soma\Soma\bin\Debug\net6.0-windows\Soma.pdb
+C:\Users\Rever\Desktop\projetos\Soma\Soma\obj\Debug\net6.0-windows\Soma.csproj.AssemblyReference.cache
+C:\Users\Rever\Desktop\projetos\Soma\Soma\obj\Debug\net6.0-windows\Soma.frmPrincipal.resources
+C:\Users\Rever\Desktop\projetos\Soma\Soma\obj\Debug\net6.0-windows\Soma.csproj.GenerateResource.cache
+C:\Users\Rever\Desktop\projetos\Soma\Soma\obj\Debug\net6.0-windows\Soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rever\Desktop\projetos\Soma\Soma\obj\Debug\net6.0-windows\Soma.AssemblyInfoInputs.cache
+C:\Users\Rever\Desktop\projetos\Soma\Soma\obj\Debug\net6.0-windows\Soma.AssemblyInfo.cs
+C:\Users\Rever\Desktop\projetos\Soma\Soma\obj\Debug\net6.0-windows\Soma.csproj.CoreCompileInputs.cache
+C:\Users\Rever\Desktop\projetos\Soma\Soma\obj\Debug\net6.0-windows\Soma.dll
+C:\Users\Rever\Desktop\projetos\Soma\Soma\obj\Debug\net6.0-windows\refint\Soma.dll
+C:\Users\Rever\Desktop\projetos\Soma\Soma\obj\Debug\net6.0-windows\Soma.pdb
+C:\Users\Rever\Desktop\projetos\Soma\Soma\obj\Debug\net6.0-windows\Soma.genruntimeconfig.cache
+C:\Users\Rever\Desktop\projetos\Soma\Soma\obj\Debug\net6.0-windows\ref\Soma.dll
+C:\Users\mauri\somapoo\Soma\Soma\bin\Debug\net6.0-windows\Soma.exe
+C:\Users\mauri\somapoo\Soma\Soma\bin\Debug\net6.0-windows\Soma.deps.json
+C:\Users\mauri\somapoo\Soma\Soma\bin\Debug\net6.0-windows\Soma.runtimeconfig.json
+C:\Users\mauri\somapoo\Soma\Soma\bin\Debug\net6.0-windows\Soma.dll
+C:\Users\mauri\somapoo\Soma\Soma\bin\Debug\net6.0-windows\Soma.pdb
+C:\Users\mauri\somapoo\Soma\Soma\obj\Debug\net6.0-windows\Soma.csproj.AssemblyReference.cache
+C:\Users\mauri\somapoo\Soma\Soma\obj\Debug\net6.0-windows\Soma.frmPrincipal.resources
+C:\Users\mauri\somapoo\Soma\Soma\obj\Debug\net6.0-windows\Soma.csproj.GenerateResource.cache
+C:\Users\mauri\somapoo\Soma\Soma\obj\Debug\net6.0-windows\Soma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\somapoo\Soma\Soma\obj\Debug\net6.0-windows\Soma.AssemblyInfoInputs.cache
+C:\Users\mauri\somapoo\Soma\Soma\obj\Debug\net6.0-windows\Soma.AssemblyInfo.cs
+C:\Users\mauri\somapoo\Soma\Soma\obj\Debug\net6.0-windows\Soma.csproj.CoreCompileInputs.cache
+C:\Users\mauri\somapoo\Soma\Soma\obj\Debug\net6.0-windows\Soma.dll
+C:\Users\mauri\somapoo\Soma\Soma\obj\Debug\net6.0-windows\refint\Soma.dll
+C:\Users\mauri\somapoo\Soma\Soma\obj\Debug\net6.0-windows\Soma.pdb
+C:\Users\mauri\somapoo\Soma\Soma\obj\Debug\net6.0-windows\Soma.genruntimeconfig.cache
+C:\Users\mauri\somapoo\Soma\Soma\obj\Debug\net6.0-windows\ref\Soma.dll
