@@ -8,20 +8,21 @@ namespace Soma.modelo
 {
     internal class Controle : Propriedades
     {
-        public Controle(string numero1, string numero2)
+        public Controle(string numero1, string numero2, string tipoConta)
         {
             this.numero1 = numero1;
             this.numero2 = numero2;
+            this.tipoConta = tipoConta;
             Executar();
         }
 
         private void Executar()
         {
             mensagem = "";
-            Validacao validacao = new Validacao(this.numero1, this.numero2);
+            Validacao validacao = new Validacao(this.numero1, this.numero2, tipoConta);
             if (validacao.Mensagem.Equals(""))
             {
-                Calculos calculos = new Calculos(validacao.N1, validacao.N2);
+                Calculos calculos = new Calculos(validacao.N1, validacao.N2, validacao.tipoConta);
                 resultado = calculos.Res.ToString();
             }
             else

@@ -12,6 +12,7 @@ namespace Soma.modelo
         public String mensagem;
         public String numero1;
         public String numero2;
+        public String tipoConta;
         public Double n1;
         public Double n2;
         public Double res;

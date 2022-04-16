@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Rever\\.nuget\\packages\\": {}
+    "C:\\Users\\mauri\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documentos\\GitHub\\ds2e3_LPOO_1sem22\\Soma heranca\\Soma\\Soma.csproj",
+      "projectUniqueName": "C:\\Users\\mauri\\somapoo\\Soma heranca\\Soma\\Soma.csproj",
       "projectName": "Soma",
-      "projectPath": "D:\\Documentos\\GitHub\\ds2e3_LPOO_1sem22\\Soma heranca\\Soma\\Soma.csproj",
-      "packagesPath": "C:\\Users\\Rever\\.nuget\\packages\\",
-      "outputPath": "D:\\Documentos\\GitHub\\ds2e3_LPOO_1sem22\\Soma heranca\\Soma\\obj\\",
+      "projectPath": "C:\\Users\\mauri\\somapoo\\Soma heranca\\Soma\\Soma.csproj",
+      "packagesPath": "C:\\Users\\mauri\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\mauri\\somapoo\\Soma heranca\\Soma\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Rever\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\mauri\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

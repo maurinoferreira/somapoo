@@ -8,10 +8,11 @@ namespace Soma.modelo
 {
     internal class Validacao : Propriedades
     {
-        public Validacao(string numero1, string numero2)
+        public Validacao(string numero1, string numero2, string tipoConta)
         {
             this.numero1 = numero1;
             this.numero2 = numero2;
+            this.tipoConta = tipoConta; 
             Validar();
         }
 

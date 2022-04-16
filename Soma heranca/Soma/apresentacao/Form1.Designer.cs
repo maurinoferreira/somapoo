@@ -34,6 +34,9 @@
             this.lblNumero2 = new System.Windows.Forms.Label();
             this.btnSomar = new System.Windows.Forms.Button();
             this.lblResultado = new System.Windows.Forms.Label();
+            this.btnDividir = new System.Windows.Forms.Button();
+            this.btnSubtrair = new System.Windows.Forms.Button();
+            this.btnMultiplicar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblNumero1
@@ -72,7 +75,7 @@
             // 
             this.btnSomar.Location = new System.Drawing.Point(35, 144);
             this.btnSomar.Name = "btnSomar";
-            this.btnSomar.Size = new System.Drawing.Size(141, 23);
+            this.btnSomar.Size = new System.Drawing.Size(59, 23);
             this.btnSomar.TabIndex = 4;
             this.btnSomar.Text = "Somar";
             this.btnSomar.UseVisualStyleBackColor = true;
@@ -81,18 +84,51 @@
             // lblResultado
             // 
             this.lblResultado.AutoSize = true;
-            this.lblResultado.Location = new System.Drawing.Point(35, 186);
+            this.lblResultado.Location = new System.Drawing.Point(35, 232);
             this.lblResultado.Name = "lblResultado";
             this.lblResultado.Size = new System.Drawing.Size(59, 15);
             this.lblResultado.TabIndex = 5;
             this.lblResultado.Text = "Resultado";
+            // 
+            // btnDividir
+            // 
+            this.btnDividir.Location = new System.Drawing.Point(100, 144);
+            this.btnDividir.Name = "btnDividir";
+            this.btnDividir.Size = new System.Drawing.Size(77, 23);
+            this.btnDividir.TabIndex = 6;
+            this.btnDividir.Text = "Dividir";
+            this.btnDividir.UseVisualStyleBackColor = true;
+            this.btnDividir.Click += new System.EventHandler(this.btnDividir_Click);
+            // 
+            // btnSubtrair
+            // 
+            this.btnSubtrair.Location = new System.Drawing.Point(35, 190);
+            this.btnSubtrair.Name = "btnSubtrair";
+            this.btnSubtrair.Size = new System.Drawing.Size(59, 23);
+            this.btnSubtrair.TabIndex = 7;
+            this.btnSubtrair.Text = "Subtrair";
+            this.btnSubtrair.UseVisualStyleBackColor = true;
+            this.btnSubtrair.Click += new System.EventHandler(this.btnSubtrair_Click);
+            // 
+            // btnMultiplicar
+            // 
+            this.btnMultiplicar.Location = new System.Drawing.Point(100, 190);
+            this.btnMultiplicar.Name = "btnMultiplicar";
+            this.btnMultiplicar.Size = new System.Drawing.Size(77, 23);
+            this.btnMultiplicar.TabIndex = 8;
+            this.btnMultiplicar.Text = "Multiplicar";
+            this.btnMultiplicar.UseVisualStyleBackColor = true;
+            this.btnMultiplicar.Click += new System.EventHandler(this.btnMultiplicar_Click);
             // 
             // frmPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
-            this.ClientSize = new System.Drawing.Size(220, 217);
+            this.ClientSize = new System.Drawing.Size(220, 277);
+            this.Controls.Add(this.btnMultiplicar);
+            this.Controls.Add(this.btnSubtrair);
+            this.Controls.Add(this.btnDividir);
             this.Controls.Add(this.lblResultado);
             this.Controls.Add(this.btnSomar);
             this.Controls.Add(this.txbNumero2);
@@ -114,5 +150,8 @@
         private Label lblNumero2;
         private Button btnSomar;
         private Label lblResultado;
+        private Button btnDividir;
+        private Button btnSubtrair;
+        private Button btnMultiplicar;
     }
 }
